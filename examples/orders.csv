@@ -1,0 +1,10 @@
+order_id,customer_name,product,quantity,payment_method
+EG3001,Laila Amin,Cotton scarf,2,Cash on delivery
+EG3002,Omar Nabil,Ceramic mug,1,Wallet
+EG3003,Mariam Adel,Canvas tote bag,3,Wallet
+EG3002,Karim Fathy,Desk lamp,1,Cash on delivery
+EG3005,,Notebook,2,Wallet
+EG3006,Nour Samir,Water bottle,abc,Cash on delivery
+,Youssef Ali,Phone stand,1,Wallet
+EG3008,Salma Hassan,Travel pouch,2,Cash on delivery
+EG3009,Hana Mostafa,Tea strainer,1,Wallet

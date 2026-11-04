@@ -1,0 +1,17 @@
+# Python caches and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments and local settings
+.venv/
+venv/
+env/
+ENV/
+.vscode/
+.env
+.env.*
+
+# Root starter script and generated report
+/main.py
+/order_report.csv

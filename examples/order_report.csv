@@ -1,0 +1,5 @@
+Problem
+Row 5: duplicate order ID EG3002
+Row 6: missing customer_name
+Row 7: invalid quantity 'abc' (must be a positive whole number)
+Row 8: missing order_id
